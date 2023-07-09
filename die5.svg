@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    sodipodi:docname="die6.svg"
+    viewBox="0 0 36 36"
+    version="1.1"
+    inkscape:version="0.47pre4 r22446"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="25"
+      pagecolor="#ffffff"
+      inkscape:window-height="726"
+      inkscape:window-maximized="1"
+      inkscape:zoom="3.959798"
+      inkscape:window-x="0"
+      showgrid="true"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="33.180056"
+      inkscape:cy="0.2302661"
+      units="in"
+      inkscape:window-width="1280"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+    >
+    <inkscape:grid
+        id="grid2816"
+        enabled="true"
+        visible="true"
+        snapvisiblegridlinesonly="true"
+        type="xygrid"
+        empspacing="5"
+    />
+  </sodipodi:namedview
+  >
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-4.5 -966.86)"
+    >
+    <rect
+        id="rect2838"
+        style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#ff0000"
+        transform="translate(0 962.36)"
+        height="35"
+        width="35"
+        y="5"
+        x="5"
+    />
+    <path
+        id="path2820"
+        sodipodi:rx="2.5"
+        sodipodi:ry="2.5"
+        style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#000000"
+        sodipodi:type="arc"
+        d="m25 22.5c0 1.381-1.119 2.5-2.5 2.5s-2.5-1.119-2.5-2.5 1.119-2.5 2.5-2.5c1.3807 0 2.5 1.1193 2.5 2.5z"
+        transform="translate(0 962.36)"
+        sodipodi:cy="22.5"
+        sodipodi:cx="22.5"
+    />
+    <path
+        id="path2822"
+        sodipodi:rx="2.5"
+        sodipodi:ry="2.5"
+        style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#000000"
+        sodipodi:type="arc"
+        d="m15 12.5c0 1.381-1.119 2.5-2.5 2.5s-2.5-1.119-2.5-2.5 1.119-2.5 2.5-2.5c1.3807 0 2.5 1.1193 2.5 2.5z"
+        transform="translate(0 962.36)"
+        sodipodi:cy="12.5"
+        sodipodi:cx="12.5"
+    />
+    <path
+        id="path2826"
+        sodipodi:rx="2.5"
+        sodipodi:ry="2.5"
+        style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#000000"
+        sodipodi:type="arc"
+        d="m35 12.5c0 1.381-1.119 2.5-2.5 2.5s-2.5-1.119-2.5-2.5 1.119-2.5 2.5-2.5c1.3807 0 2.5 1.1193 2.5 2.5z"
+        transform="translate(0 962.36)"
+        sodipodi:cy="12.5"
+        sodipodi:cx="32.5"
+    />
+    <path
+        id="path2828"
+        sodipodi:rx="2.5"
+        sodipodi:ry="2.5"
+        style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#000000"
+        sodipodi:type="arc"
+        d="m15 32.5c0 1.381-1.119 2.5-2.5 2.5s-2.5-1.119-2.5-2.5 1.119-2.5 2.5-2.5c1.3807 0 2.5 1.1193 2.5 2.5z"
+        transform="translate(0 962.36)"
+        sodipodi:cy="32.5"
+        sodipodi:cx="12.5"
+    />
+    <path
+        id="path2832"
+        sodipodi:rx="2.5"
+        sodipodi:ry="2.5"
+        style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#000000"
+        sodipodi:type="arc"
+        d="m35 32.5c0 1.381-1.119 2.5-2.5 2.5s-2.5-1.119-2.5-2.5 1.119-2.5 2.5-2.5c1.3807 0 2.5 1.1193 2.5 2.5z"
+        transform="translate(0 962.36)"
+        sodipodi:cy="32.5"
+        sodipodi:cx="32.5"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Red Die 5</dc:title
+        >
+        <dc:date
+          >2006-12-26T00:00:00</dc:date
+        >
+        <dc:description
+          >A die I made for a game.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/29551/red-die-5-by-orsonj</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >orsonj</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >dice</rdf:li
+            >
+            <rdf:li
+              >die</rdf:li
+            >
+            <rdf:li
+              >game</rdf:li
+            >
+            <rdf:li
+              >red</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
